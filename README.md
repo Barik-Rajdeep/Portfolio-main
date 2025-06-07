@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 * **Email**: [rajdeepbarik5@gmail.com](mailto:rajdeepbarik5@gmail.com)
 * **LinkedIn**: [linkedin.com/in/rajdeep-barik-08ab9a1b9](https://www.linkedin.com/in/rajdeep-barik-08ab9a1b9)
-* **Instagram**: [@the\_sionofpriory](https://www.instagram.com/the_sionofpriory/)
+* **Instagram**: [@prioryofsion_]([https://www.instagram.com/prioryofsion_/])
 
 Feel free to reach out for collaborations, freelance opportunities, or just a friendly chat!
 
